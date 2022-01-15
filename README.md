@@ -3,7 +3,7 @@
 ## Frameworks utilisés 
 Hibernate - Framework utilisé pour gérer la persistance des objets Java <-> BDD
 ## API utilisés 
-JaxRS (Restfull Webservices)
+JaxRS (Restfull Webservices)<br />
 JPA
 
 ## Screenshot
@@ -42,8 +42,8 @@ JPA
 
 
 ## Pré-requis
-Mettre en place un serveur Wildfly 17
-Mettre en place un serveur MySQL 8
+1.Mettre en place un serveur Wildfly 17 <br />
+2.Mettre en place un serveur MySQL 8
 
 
 
